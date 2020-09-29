@@ -1,2 +1,2 @@
-# P20
-P20
+# p5.play-boilerplate
+Boiler plate for p5.play
